@@ -1,0 +1,28 @@
+#centro{
+    margin-left: 37.5%;
+}
+
+.textoPrimario{
+    padding-top: 50px;
+    font-size: 150px;
+    font-weight: 600px;
+    color: black;
+}
+
+.botonSecundario{
+    border: 1px solid black;
+  
+}
+
+.titulosForm{
+    font-weight: lighter;
+}
+
+button{
+    border-radius: 50px;
+}
+
+.rotate{
+    rotate: 180deg;
+}
+
